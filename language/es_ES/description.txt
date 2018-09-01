@@ -1,0 +1,1 @@
+Permite reemplazar el icono 'favicon' de Piwigo por otro cualquiera de su elección

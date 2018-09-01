@@ -1,0 +1,1 @@
+Substitui o Favicon do Piwigo por um favicon no diretório local

@@ -1,0 +1,1 @@
+Zmień  favicon Piwigo na favicon z  katalogu lokalnego

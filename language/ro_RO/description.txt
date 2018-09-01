@@ -1,0 +1,1 @@
+Înlocuiește pictograma favorită Piwigo cu pictograma favorită din directorul local

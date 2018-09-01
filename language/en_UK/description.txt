@@ -1,0 +1,1 @@
+Replace Piwigo favicon by the favicon in local directory

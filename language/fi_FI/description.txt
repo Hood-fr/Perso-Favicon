@@ -1,0 +1,1 @@
+Korvaa Piwigon käyttämä oletus favicon palvelimelle lisättävällä ikonilla

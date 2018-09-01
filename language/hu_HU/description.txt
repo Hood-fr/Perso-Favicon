@@ -1,0 +1,1 @@
+A Piwigo favikon cseréje a helyi könyvtárban.

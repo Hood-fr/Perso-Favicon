@@ -1,0 +1,1 @@
+Piwigo varsayılan favicon dosyasını yerel dizindeki favicon ile değiştirmenizi sağlar

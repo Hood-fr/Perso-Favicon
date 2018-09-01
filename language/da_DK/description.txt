@@ -1,0 +1,1 @@
+Erstat Piwigos favicon med en favicon i din lokale mappe.

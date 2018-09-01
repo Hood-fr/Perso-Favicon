@@ -1,0 +1,1 @@
+Ersetzen Sie den Piwigo Favicon mit einem eigenen Favicon im lokalen Verzeichnis.
