@@ -1,2 +1,0 @@
-# Perso-Favicon
-Piwigo plugin
